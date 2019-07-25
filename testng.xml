@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="src/test/java/WebsocketTest.java">
+        <classes>
+            <class name="rammstein4o.tests.WebsocketTest"/>
+        </classes>
+    </test>
+</suite>
